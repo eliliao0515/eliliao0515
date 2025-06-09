@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**eliliao0515/eliliao0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">Languages I write</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<div align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.javascript.com/](https://dart.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart logo"  />
+  <img width="12" />
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  />
+  </a>
+  <!-- Add or remove languages as per your proficiency -->
+</div>
